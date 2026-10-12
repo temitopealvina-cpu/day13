@@ -1,0 +1,19 @@
+.cost{
+    color: red;
+    background-color: white;
+}
+.stuff{
+    padding: 290px;
+}
+.title{
+    color: green;
+    background-color: white;
+}
+.close{
+    padding: 400px;
+    font-size: xx-large;
+}
+.please{
+    left: 200px;
+    bottom: 200px;
+}
