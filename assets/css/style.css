@@ -1,19 +1,44 @@
 .cost{
     color: red;
-    background-color: white;
+    background-color: orange;
+     border: 1px solid black;
+    height: 1000px;
+    padding: 40px;
+    width: 600px;
+    margin: auto;
+    position: relative;
 }
 .stuff{
-    padding: 290px;
+    padding: 100px;
 }
 .title{
     color: green;
-    background-color: white;
+    background-color:orange;
 }
 .close{
     padding: 400px;
     font-size: xx-large;
+    color: blue;
+    background-color:olive;
 }
 .please{
     left: 200px;
     bottom: 200px;
+    color: blue;
+    background-color: olive;
+}
+.fa-flashsale{
+    position: fixed;
+    top: 90px;
+    left: 90px;
+    font-size: large;
+    color: red;
+}
+.mass{    
+  border: 1px solid black;
+    height: 1000px;
+    padding: 40px;
+    width: 600px;
+    margin: auto;
+    
 }
